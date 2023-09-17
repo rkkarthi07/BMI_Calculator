@@ -46,7 +46,7 @@ button{
    border-radius: 10px;
    height: 25px;
    width:100px;
-   margin-left: 40%;
+   justify-content:center;
    border:none;
    font-size: 17px;
    color: rgb(0, 0, 0);
